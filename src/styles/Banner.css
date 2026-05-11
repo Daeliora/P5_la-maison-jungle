@@ -13,3 +13,9 @@
   margin: 0;
   font-family: 'Georgia', serif;
 }
+
+/* Style déjà ajouté au-dessus */
+.banner-logo {
+  height: 60px;
+  width: auto;
+}

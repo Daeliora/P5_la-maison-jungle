@@ -4,12 +4,12 @@ import ShoppingList from './components/ShoppingList'
 
 const App = () => {
     return (
-      <>
-        <Banner />
-        <Cart />
-        <ShoppingList />
-      </>
-  )
+        <div>
+            <Banner />
+            {/* <Cart /> */}
+            <ShoppingList />
+        </div>
+    )
 }
 
 export default App
